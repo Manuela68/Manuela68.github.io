@@ -10,3 +10,5 @@ Es gibt etliche Arten, sie werden sehr alt und sind sehr weise.
 * gemütlich
 * alt
 * weise ;-)
+
+> Reden ist silber, schweigen ist gold ;-).
